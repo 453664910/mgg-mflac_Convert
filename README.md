@@ -78,4 +78,4 @@ python debug.py --diag --wait 5
 - 默认仅支持 `.mflac` 和 `.mgg` 文件解密，其他格式如 `.mp3/.flac` 会直接列出，但不会做解密。
 
 ## 参考原项目
-https://github.com/yllhwa/decrypt-mflac-frida 这个项目已经报错不可用了 我也是服了 然后基于他的大改动改动了一下
+https://github.com/HanZeYu-momo/QQ-Music-Audio-Decryption-Tool 原项目的Frida的兼容性不佳，修改后增强了兼容性。
